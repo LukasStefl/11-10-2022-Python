@@ -1,4 +1,4 @@
-num = int(input("Vlož číslo s nělokia číslicemi"))
+num = int(input("Vlož číslo s nělokia číslicemi: "))
 count = 0
 
 while num != 0:
